@@ -1,6 +1,6 @@
-# DnD Character Analyzer
+# D&D Character Analyzer
 
-A proof of concept for a D&D 5e character build analyzer, developed as the final project for the Fall 2020 COMP 1405 Z course at Carleton University, Ottawa.
+A proof of concept for a Dungeons & Dragons (D&D, or DnD) 5e character build analyzer, developed as the final project for the Fall 2020 COMP 1405 Z course at Carleton University, Ottawa.
 
 Currently supports minimal options, including 3 races with 2 subraces each, 1 class with 2 subclasses, and 13 weapons. 
 

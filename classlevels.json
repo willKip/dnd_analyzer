@@ -1,0 +1,21 @@
+{
+    "fighter": {
+        "1": "fightingstyle",
+        "2": "actionsurge",
+        "3": {
+            "champion": "improvedcritical",
+            "samurai": "fightingspirit"
+        },
+        "4": "asi",
+        "5": "extraattack",
+        "6": "asi",
+        "8": "asi",
+        "10": {
+            "champion": "fightingstyle"
+        },
+        "12": "asi",
+        "14": "asi",
+        "16": "asi",
+        "19": "asi"
+    }
+}

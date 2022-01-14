@@ -1,0 +1,102 @@
+{
+    "human": {
+        "subrace": {
+            "vanilla": {
+                "asi": [
+                    false,
+                    {
+                        "str": 1,
+                        "dex": 1,
+                        "con": 1,
+                        "int": 1,
+                        "wis": 1,
+                        "cha": 1
+                    }
+                ]
+            },
+            "variant": {
+                "asi": [
+                    true,
+                    2,
+                    {
+                        "str": true,
+                        "dex": true,
+                        "con": true,
+                        "int": true,
+                        "wis": true,
+                        "cha": true
+                    }
+                ],
+                "feat": 1
+            }
+        }
+    },
+    "elf": {
+        "subrace": {
+            "wood": {
+                "asi": [
+                    false,
+                    {
+                        "str": 0,
+                        "dex": 2,
+                        "con": 0,
+                        "int": 0,
+                        "wis": 1,
+                        "cha": 0
+                    }
+                ],
+                "weapons": [
+                    "longsword, shortsword, shortbow, longbow"
+                ]
+            },
+            "drow": {
+                "asi": [
+                    false,
+                    {
+                        "str": 0,
+                        "dex": 2,
+                        "con": 0,
+                        "int": 0,
+                        "wis": 0,
+                        "cha": 1
+                    }
+                ],
+                "weapons": [
+                    "rapier, shortsword, hand_crossbow"
+                ]
+            }
+        }
+    },
+    "halfling": {
+        "subrace": {
+            "lightfoot": {
+                "asi": [
+                    false,
+                    {
+                        "str": 0,
+                        "dex": 2,
+                        "con": 0,
+                        "int": 0,
+                        "wis": 0,
+                        "cha": 1
+                    }
+                ],
+                "feat": "halfling_lucky"
+            },
+            "ghostwise": {
+                "asi": [
+                    false,
+                    {
+                        "str": 0,
+                        "dex": 2,
+                        "con": 0,
+                        "int": 0,
+                        "wis": 1,
+                        "cha": 0
+                    }
+                ],
+                "feat": "halfling_lucky"
+            }
+        }
+    }
+}

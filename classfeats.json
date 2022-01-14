@@ -1,0 +1,12 @@
+{
+    "fighter": {
+        "actionsurge": {
+            "uses": 1,
+            "recharge": true
+        },
+        "fightingspirit": {
+            "uses": 3,
+            "recharge": false
+        }
+    }
+}

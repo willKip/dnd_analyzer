@@ -1,0 +1,9 @@
+{
+    "elvenAccuracy": {},
+    "greatWeaponMaster": {},
+    "sharpshooter": {},
+    "lucky": {
+        "uses": 3,
+        "recharge": true
+    }
+}

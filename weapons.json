@@ -1,0 +1,15 @@
+{
+    "dagger": "1d4",
+    "mace": "1d6",
+    "greatclub": "1d8",
+    "shortbow": "1d6",
+    "lightcrossbow": "1d8",
+    "shortsword": "1d6",
+    "rapier": "1d8",
+    "longsword": "1d8",
+    "greataxe": "1d12",
+    "greatsword": "2d6",
+    "handcrossbow": "1d6",
+    "longbow": "1d8",
+    "heavycrossbow": "1d10"
+}

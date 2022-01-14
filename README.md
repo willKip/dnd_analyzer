@@ -7,7 +7,7 @@ Currently supports minimal options, including 3 races with 2 subraces each, 1 cl
 The aim of the program is to calculate a graph of average damage per level, simulating the growth of a player character from level 1 to 20 by prompting the user for decisions on features. Many details have been abstracted due to the game's complexity, but further extensions to the program would make it more accurate to real results.
 
 ## Usage
-Clone to local directory with `git clone https://github.com/willKip/dnd-analyzer`; run `dnd_analysis.py`. The program is operated on the command line, and outputs graphs in a separate window. The graph window must be closed in order to shut the program down properly.
+Clone to local directory with `git clone https://github.com/willKip/dnd_analyzer`; run `dnd_analysis.py`. The program is operated on the command line, and outputs graphs in a separate window. The graph window must be closed in order to shut the program down properly.
 
 All character and game data is stored as JSON files, read and modified by the Python script. Character JSON files hold example characters, and the data calculated with their parameters.
 
